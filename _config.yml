@@ -12,7 +12,7 @@ presskit_download_link                    : https://ahmadraza.digital/          
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Finsigs                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : We are a stock market research platform currently in beta at finsigs.com
+app_description                           : Swing trader and investor ALERT! Now you can watch your stocks from your smart watch with our stock market research app
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : 1
+    description                           : Have access to a number of stock market exchanges like NYSE, NASDAQ and much more.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 2
+    description                           : Stock market data is ethier real-time data or delayed.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : 3
+    description                           : Create a stock market watch list and import the data to your smart watch with only a few clicks.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
