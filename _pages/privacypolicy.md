@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: true
+---
+
 <h1>Privacy Policy for Finsigs</h1>
 
 <p>At Finsigs, accessible from www.finsigs.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Finsigs and how we use it.</p>
