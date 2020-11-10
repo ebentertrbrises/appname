@@ -16,6 +16,14 @@ include_in_header: true
 
 <p>Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their "Terms of Service" before engaging in any business or uploading any information. Our Privacy Policy was created by <a href="https://www.generateprivacypolicy.com/">the Privacy Policy Generator</a>.</p>
 
+<p>All stock market data comes from a third party source, so we in no way take any responsibility for any such issues that may arise from incorrect company stock prices or time delays.</p>
+
+
+<p>The Finsigs mobile app and smart watch app is only designed for educational purposes only. The apps are not intended to aid or help with an individuals financial decision with any stock market purchases.</p>
+
+
+<p>By downloading the app you accept that you are using the app at your own risk and no one else is liable for such issues if they were to arise within the app.  </p>
+
 <h2>Consent</h2>
 
 <p>By using our website, you hereby consent to our disclaimer and agree to its terms.</p>
